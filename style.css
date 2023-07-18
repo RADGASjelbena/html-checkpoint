@@ -1,0 +1,27 @@
+*{
+    font-family: 'Roboto Condensed', sans-serif;
+    
+}
+header nav img { width: 20;
+    height: 20; }
+    header nav div ul { 
+        display: flex;
+       
+    }
+    li {
+        
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        cursor: pointer;
+        
+      }
+      li:hoover {
+        color: plum
+      }
+      body { background-image: url(miles-morales-spider-man-across-the-spider-verse-.webp);
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center;
+
+      }
